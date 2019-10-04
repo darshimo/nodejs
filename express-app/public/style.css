@@ -1,0 +1,50 @@
+h1
+{
+    font-size: 128px;
+    font-weight: bold;
+
+    margin: -50px 0 -140px 0;
+
+    text-align: center;
+    letter-spacing: -10px;
+
+    color: #f0f0f0;
+}
+
+body
+{
+    margin: 5px;
+}
+
+p
+{
+    font-size: 14px;
+    line-height: 200%;
+
+    margin: 0 20px;
+}
+
+table
+{
+    margin: 20px;
+}
+
+table tr th
+{
+    padding: 3px 10px;
+
+    text-align: center;
+
+    color: #fff;
+    background-color: #999;
+}
+
+table tr td
+{
+    padding: 3px 10px;
+
+    text-align: left;
+
+    color: #666;
+    background-color: #eee;
+}
