@@ -1,0 +1,16 @@
+body
+{
+    font: 14px 'Lucida Grande', Helvetica, Arial, sans-serif;
+
+    padding: 50px;
+}
+
+a
+{
+    color: #00b7ff;
+}
+
+.error
+{
+    color: red;
+}
