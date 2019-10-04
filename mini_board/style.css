@@ -1,0 +1,51 @@
+h1
+{
+    font-size: 60pt;
+
+    margin: 0;
+
+    text-align: right;
+
+    color: #eee;
+}
+
+body
+{
+    font-size: 12pt;
+
+    margin: 5px;
+
+    color: #999;
+}
+
+p
+{
+    font-size: 14pt;
+
+    margin: 0 20px;
+}
+
+table
+{
+    margin: 20px;
+}
+
+table tr th
+{
+    padding: 3px 10px;
+
+    text-align: center;
+
+    color: #fff;
+    background-color: #999;
+}
+
+table tr td
+{
+    padding: 3px 10px;
+
+    text-align: left;
+
+    color: #666;
+    background-color: #eee;
+}
