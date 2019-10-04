@@ -1,0 +1,74 @@
+a
+{
+    color: #00b7ff;
+}
+
+a.home
+{
+    text-decoration: none;
+
+    color: white;
+}
+
+h1
+{
+    font-size: 60pt;
+
+    margin: 0;
+
+    text-align: right;
+
+    color: #eee;
+}
+
+h2
+{
+    font: 20px 'Lucida Grande', Helvetica, Arial, sans-serif;
+}
+
+body
+{
+    font: 14px 'Lucida Grande', Helvetica, Arial, sans-serif;
+
+    margin: 5px;
+    padding: 50px;
+
+    color: #999;
+}
+
+p
+{
+    font: 14px 'Lucida Grande', Helvetica, Arial, sans-serif;
+
+    margin: 0 20px;
+}
+
+table
+{
+    margin: 20px;
+}
+
+table tr th
+{
+    padding: 5px 10px;
+
+    text-align: center;
+
+    color: #fff;
+    background-color: #999;
+}
+
+table tr td
+{
+    padding: 5px 10px;
+
+    text-align: left;
+
+    color: #666;
+    background-color: #eee;
+}
+
+.error
+{
+    color: red;
+}
